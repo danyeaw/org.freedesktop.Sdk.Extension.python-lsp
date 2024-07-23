@@ -1,0 +1,14 @@
+{
+    "name": "python3-pygobject-stubs",
+    "buildsystem": "simple",
+    "build-commands": [
+        "pip3 install --verbose --exists-action=i --no-index --find-links=\"file://${PWD}\" --prefix=${FLATPAK_DEST} \"pygobject-stubs\" --no-build-isolation"
+    ],
+    "sources": [
+        {
+            "type": "file",
+            "url": "https://files.pythonhosted.org/packages/00/94/097808d0e22af77e60da74ee8793e01b6233f0ac7875bc782513a5e01bf2/PyGObject-stubs-2.11.0.tar.gz",
+            "sha256": "e1c7e32658213ae711d8afc5ea083a434231b8b588d1de23f50d5705a9c8eefe"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2024 Dan Yeaw <danyeaw@gnome.org> -->
+<component type="addon">
+  <id>org.freedesktop.Sdk.Extension.python-lsp</id>
+  <extends>org.freedesktop.Sdk</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Python LSP</name>
+  <summary>Python Language Server Protocol extension for the flatpak Freedesktop SDK</summary>
+  <description>Python Language Server Protocol and related tools</description>
+  <project_license>MIT</project_license>
+  <url type="homepage">https://github.com/flathub/org.freedesktop.Sdk.Extension.python-lsp/</url>
+  <translation/>
+  <update_contact>danyeaw@gnome.org</update_contact>
+  <releases>
+    <release version="0.0.1" date="2024-07-23"/>
+  </releases>
+</component>
+

@@ -1,0 +1,14 @@
+./flatpak-builder-tools/pip/flatpak-pip-generator setuptools-scm
+./flatpak-builder-tools/pip/flatpak-pip-generator python-lsp-server[all]
+./flatpak-builder-tools/pip/flatpak-pip-generator pylsp-mypy
+./flatpak-builder-tools/pip/flatpak-pip-generator python-lsp-isort
+./flatpak-builder-tools/pip/flatpak-pip-generator python-lsp-black
+./flatpak-builder-tools/pip/flatpak-pip-generator hatchling
+./flatpak-builder-tools/pip/flatpak-pip-generator hatch-fancy-pypi-readme
+./flatpak-builder-tools/pip/flatpak-pip-generator hatch-vcs
+./flatpak-builder-tools/pip/flatpak-pip-generator pyls-memestra
+./flatpak-builder-tools/pip/flatpak-pip-generator pylsp-rope
+./flatpak-builder-tools/pip/flatpak-pip-generator setuptools-rust
+./flatpak-builder-tools/pip/flatpak-pip-generator maturin
+./flatpak-builder-tools/pip/flatpak-pip-generator python-lsp-ruff
+./flatpak-builder-tools/pip/flatpak-pip-generator pygobject-stubs
