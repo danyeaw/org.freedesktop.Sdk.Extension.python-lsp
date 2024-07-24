@@ -8,7 +8,7 @@
   <summary>Python Language Server Protocol extension for the flatpak Freedesktop SDK</summary>
   <description>Python Language Server Protocol and related tools</description>
   <project_license>MIT</project_license>
-  <url type="homepage">https://github.com/flathub/org.freedesktop.Sdk.Extension.python-lsp/</url>
+  <url type="homepage">https://github.com/danyeaw/org.freedesktop.Sdk.Extension.python-lsp/</url>
   <translation/>
   <update_contact>danyeaw@gnome.org</update_contact>
   <releases>

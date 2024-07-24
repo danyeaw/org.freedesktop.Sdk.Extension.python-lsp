@@ -2,6 +2,7 @@ id: org.freedesktop.Sdk.Extension.python-lsp
 branch: '23.08'
 runtime: org.freedesktop.Sdk
 runtime-version: '23.08'
+command: pylsp
 sdk: org.freedesktop.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.rust-stable
